@@ -1,3 +1,3 @@
 # the-ambious-project
 
-# first project
+first project
